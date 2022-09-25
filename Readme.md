@@ -4,8 +4,8 @@ This is basically a one pager website Template project made in HTML/CSS for an i
 Hope you like my project !! it works good in laptop screen if you are using desktop please zoom in or out that might work .
 
 ## Technologies Used
-  - HTML - Hyper Text Markup Language
-  - CSS - Cascadeing Spread Sheet
+  - HTML
+  - CSS
 
 ## Demo
 ![page-img](./assets/page_img.PNG)
@@ -21,11 +21,6 @@ Go to the project directory
 ```bash
   cd Cloud-Hosting-Website
 ```
-## Author and Contact
-- [Find-coder](https://www.findcoder.io/u/suhas_sm)
-    - [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suhas.melmuri)
-    - [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_suhas_sm/)
-
 ## Features
 
 - Good Background Image
